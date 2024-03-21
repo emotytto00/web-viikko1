@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week1 html task</title>
+</head>
+<body>
+    <h1>Welcome to my webpage</h1>
+    
+    <p>Here we have some web page stuff</p>
+    
+    <a href="https://www.youtube.com/watch?v=CVFKkxWBv4k">Excellent gaming video</a>
+    
+    <img src="https://i.pinimg.com/736x/78/49/95/7849957cd18bba6723037b222a2d0d48.jpg" alt="Working hard">
+    
+    <table style="width:100%">
+        <caption>Table</caption>
+        <tr>
+            <th>Fork</th>
+            <th>Knife</th>
+            <th>Other</th>
+        </tr>
+        <tr>
+            <td>Small fork</td>
+            <td>Small knife</td>
+            <td>Glass</td>
+        </tr>
+        <tr>
+            <td>Big fork</td>
+            <td>Big knife</td>
+            <td>Plate</td>
+        </tr>
+    </table>
+    
+    <h2>List of essential items</h2>
+    <ul>
+        <li>Nuggets</li>
+        <li>Milk</li>
+        <li>Carrots</li>
+    </ul>
+</body>
+</html>
